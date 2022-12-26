@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7e8798f-e9c2-476e-a2b8-5980d50fb407" name="Changes" comment="Create class Співробітник">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App/SameName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/SameName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App/Співробітник.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b7e8798f-e9c2-476e-a2b8-5980d50fb407" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671892297163</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="bugs fixed">
+      <created>1672090916703</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672090916703</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -109,6 +107,7 @@
     <MESSAGE value="Create class Співробітник" />
     <MESSAGE value="Create class SameName" />
     <MESSAGE value="Create class Car" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create class Car" />
+    <MESSAGE value="bugs fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="bugs fixed" />
   </component>
 </project>
