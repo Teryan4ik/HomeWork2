@@ -1,4 +1,4 @@
-package App;
+package app;
 
 public class Car {
 
@@ -17,8 +17,6 @@ public class Car {
 
     }
 
-    public void startFuelSystem() {
-//        System.out.println("Hello BMW!");         //test
-
+    private void startFuelSystem() {
     }
 }
